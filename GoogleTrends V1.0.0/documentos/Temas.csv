@@ -1,0 +1,301 @@
+Año,Provincia,Consulta,Frecuencia,Categoria
+2020,SJ,Receta culinaria - Género literario,100,Alimentos y bebidas
+2020,SJ,Costa Rica - País en Centroamérica,58,Alimentos y bebidas
+2020,SJ,Alimento - Alimento,27,Alimentos y bebidas
+2020,SJ,Leche - Lácteo,25,Alimentos y bebidas
+2020,SJ,Bizcochuelo - Pastel,25,Alimentos y bebidas
+2020,SJ,Carne de pollo - Carne,25,Alimentos y bebidas
+2020,SJ,Restaurante - Tipo de organización,22,Alimentos y bebidas
+2020,SJ,Pan - Alimento,22,Alimentos y bebidas
+2020,SJ,Pastel - Industria alimentaria,19,Alimentos y bebidas
+2020,SJ,Carne - Alimento,19,Alimentos y bebidas
+2020,SJ,Queso - Alimento,18,Alimentos y bebidas
+2020,SJ,Pizza - Comida,17,Alimentos y bebidas
+2020,SJ,Pizza Hut - Cadena de restaurantes,17,Alimentos y bebidas
+2020,SJ,Salsa - Condimento,17,Alimentos y bebidas
+2020,SJ,banana - Fruta,15,Alimentos y bebidas
+2020,SJ,Fruta - Comestible,15,Alimentos y bebidas
+2020,SJ,Chocolate - Alimento,15,Alimentos y bebidas
+2020,SJ,Arroz - Cereal,14,Alimentos y bebidas
+2020,SJ,Solanum tuberosum - Planta,12,Alimentos y bebidas
+2020,SJ,Horno - Artículo de cocina,12,Alimentos y bebidas
+2020,SJ,Café - Bebida,12,Alimentos y bebidas
+2020,SJ,Menú - Restaurante,11,Alimentos y bebidas
+2020,SJ,Papa John's Pizza - Compañía,11,Alimentos y bebidas
+2020,SJ,Cerveza - Bebida alcohólica,11,Alimentos y bebidas
+2020,SJ,Carne de cerdo - Carne,11,Alimentos y bebidas
+2021,SJ,Receta culinaria - Género literario,100,Alimentos y bebidas
+2021,SJ,Costa Rica - País en Centroamérica,84,Alimentos y bebidas
+2021,SJ,Restaurante - Tipo de organización,53,Alimentos y bebidas
+2021,SJ,Alimento - Alimento,48,Alimentos y bebidas
+2021,SJ,Carne de pollo - Carne,29,Alimentos y bebidas
+2021,SJ,Leche - Lácteo,27,Alimentos y bebidas
+2021,SJ,Carne - Alimento,25,Alimentos y bebidas
+2021,SJ,Bizcochuelo - Pastel,24,Alimentos y bebidas
+2021,SJ,Salsa - Condimento,21,Alimentos y bebidas
+2021,SJ,Pastel - Industria alimentaria,21,Alimentos y bebidas
+2021,SJ,Pizza - Comida,21,Alimentos y bebidas
+2021,SJ,Queso - Alimento,21,Alimentos y bebidas
+2021,SJ,Pan - Alimento,20,Alimentos y bebidas
+2021,SJ,Fruta - Comestible,19,Alimentos y bebidas
+2021,SJ,banana - Fruta,19,Alimentos y bebidas
+2021,SJ,Menú - Restaurante,18,Alimentos y bebidas
+2021,SJ,Telegram - Aplicación,18,Alimentos y bebidas
+2021,SJ,Arroz - Cereal,17,Alimentos y bebidas
+2021,SJ,Café - Bebida,17,Alimentos y bebidas
+2021,SJ,Chocolate - Alimento,17,Alimentos y bebidas
+2021,SJ,Cerveza - Bebida alcohólica,16,Alimentos y bebidas
+2021,SJ,Papa John's Pizza - Compañía,16,Alimentos y bebidas
+2021,SJ,Pizza Hut - Cadena de restaurantes,16,Alimentos y bebidas
+2021,SJ,Vino - Bebida alcohólica,15,Alimentos y bebidas
+2021,SJ,Helado - Alimento,15,Alimentos y bebidas
+2022,SJ,Receta culinaria - Género literario,100,Alimentos y bebidas
+2022,SJ,Costa Rica - País en Centroamérica,90,Alimentos y bebidas
+2022,SJ,Restaurante - Tipo de organización,52,Alimentos y bebidas
+2022,SJ,Alimento - Alimento,42,Alimentos y bebidas
+2022,SJ,Leche - Lácteo,29,Alimentos y bebidas
+2022,SJ,Carne de pollo - Carne,27,Alimentos y bebidas
+2022,SJ,Telegram - Aplicación,26,Alimentos y bebidas
+2022,SJ,Carne - Alimento,25,Alimentos y bebidas
+2022,SJ,Fruta - Comestible,24,Alimentos y bebidas
+2022,SJ,Pastel - Industria alimentaria,23,Alimentos y bebidas
+2022,SJ,Queso - Alimento,23,Alimentos y bebidas
+2022,SJ,Pizza - Comida,22,Alimentos y bebidas
+2022,SJ,Bizcochuelo - Pastel,22,Alimentos y bebidas
+2022,SJ,Salsa - Condimento,21,Alimentos y bebidas
+2022,SJ,Café - Bebida,21,Alimentos y bebidas
+2022,SJ,Menú - Restaurante,21,Alimentos y bebidas
+2022,SJ,Pan - Alimento,20,Alimentos y bebidas
+2022,SJ,Arroz - Cereal,20,Alimentos y bebidas
+2022,SJ,Chocolate - Alimento,19,Alimentos y bebidas
+2022,SJ,Té - Bebida,18,Alimentos y bebidas
+2022,SJ,banana - Fruta,17,Alimentos y bebidas
+2022,SJ,Beneficio económico - Tema,17,Alimentos y bebidas
+2022,SJ,Helado - Alimento,16,Alimentos y bebidas
+2022,SJ,Cerveza - Bebida alcohólica,16,Alimentos y bebidas
+2022,SJ,Solanum tuberosum - Planta,16,Alimentos y bebidas
+2020,P,Receta culinaria - Género literario,100,Alimentos y bebidas
+2020,P,Costa Rica - País en Centroamérica,45,Alimentos y bebidas
+2020,P,Restaurante - Tipo de organización,32,Alimentos y bebidas
+2020,P,Leche - Lácteo,30,Alimentos y bebidas
+2020,P,Alimento - Alimento,30,Alimentos y bebidas
+2020,P,Bizcochuelo - Pastel,29,Alimentos y bebidas
+2020,P,Pan - Alimento,27,Alimentos y bebidas
+2020,P,Pastel - Industria alimentaria,26,Alimentos y bebidas
+2020,P,Carne de pollo - Carne,26,Alimentos y bebidas
+2020,P,Fruta - Comestible,23,Alimentos y bebidas
+2020,P,Salsa - Condimento,22,Alimentos y bebidas
+2020,P,Queso - Alimento,20,Alimentos y bebidas
+2020,P,Carne - Alimento,20,Alimentos y bebidas
+2020,P,Chocolate - Alimento,18,Alimentos y bebidas
+2020,P,Pizza - Comida,18,Alimentos y bebidas
+2020,P,banana - Fruta,17,Alimentos y bebidas
+2020,P,Arroz - Cereal,16,Alimentos y bebidas
+2020,P,Cerveza - Bebida alcohólica,15,Alimentos y bebidas
+2020,P,Café - Bebida,14,Alimentos y bebidas
+2020,P,Ananas comosus - Fruta,14,Alimentos y bebidas
+2020,P,Arte culinario - Tema,14,Alimentos y bebidas
+2020,P,Crema de leche - Comida,14,Alimentos y bebidas
+2020,P,Solanum tuberosum - Planta,13,Alimentos y bebidas
+2020,P,Postre - Tema,13,Alimentos y bebidas
+2020,P,Galleta - Repostería,13,Alimentos y bebidas
+2021,P,Receta culinaria - Género literario,100,Alimentos y bebidas
+2021,P,Costa Rica - País en Centroamérica,71,Alimentos y bebidas
+2021,P,Restaurante - Tipo de organización,69,Alimentos y bebidas
+2021,P,Alimento - Alimento,48,Alimentos y bebidas
+2021,P,Leche - Lácteo,32,Alimentos y bebidas
+2021,P,Carne de pollo - Carne,30,Alimentos y bebidas
+2021,P,Fruta - Comestible,28,Alimentos y bebidas
+2021,P,Salsa - Condimento,27,Alimentos y bebidas
+2021,P,Carne - Alimento,27,Alimentos y bebidas
+2021,P,Café - Bebida,26,Alimentos y bebidas
+2021,P,Bizcochuelo - Pastel,26,Alimentos y bebidas
+2021,P,Pastel - Industria alimentaria,25,Alimentos y bebidas
+2021,P,Pan - Alimento,24,Alimentos y bebidas
+2021,P,Pizza - Comida,21,Alimentos y bebidas
+2021,P,Chocolate - Alimento,20,Alimentos y bebidas
+2021,P,Arroz - Cereal,19,Alimentos y bebidas
+2021,P,Cerveza - Bebida alcohólica,19,Alimentos y bebidas
+2021,P,Precio - Tema,19,Alimentos y bebidas
+2021,P,Queso - Alimento,19,Alimentos y bebidas
+2021,P,banana - Fruta,18,Alimentos y bebidas
+2021,P,Ananas comosus - Fruta,17,Alimentos y bebidas
+2021,P,Idioma español - Lengua,17,Alimentos y bebidas
+2021,P,Té - Bebida,17,Alimentos y bebidas
+2021,P,Telegram - Aplicación,17,Alimentos y bebidas
+2021,P,Idioma inglés - Lengua,16,Alimentos y bebidas
+2022,P,Receta culinaria - Género literario,100,Alimentos y bebidas
+2022,P,Costa Rica - País en Centroamérica,77,Alimentos y bebidas
+2022,P,Restaurante - Tipo de organización,74,Alimentos y bebidas
+2022,P,Alimento - Alimento,50,Alimentos y bebidas
+2022,P,Fruta - Comestible,36,Alimentos y bebidas
+2022,P,Leche - Lácteo,32,Alimentos y bebidas
+2022,P,Carne de pollo - Carne,29,Alimentos y bebidas
+2022,P,Bizcochuelo - Pastel,28,Alimentos y bebidas
+2022,P,Café - Bebida,27,Alimentos y bebidas
+2022,P,Pastel - Industria alimentaria,26,Alimentos y bebidas
+2022,P,Salsa - Condimento,25,Alimentos y bebidas
+2022,P,Pizza - Comida,23,Alimentos y bebidas
+2022,P,Pan - Alimento,22,Alimentos y bebidas
+2022,P,Chocolate - Alimento,22,Alimentos y bebidas
+2022,P,Carne - Alimento,22,Alimentos y bebidas
+2022,P,banana - Fruta,21,Alimentos y bebidas
+2022,P,Queso - Alimento,21,Alimentos y bebidas
+2022,P,Arroz - Cereal,21,Alimentos y bebidas
+2022,P,Cerveza - Bebida alcohólica,20,Alimentos y bebidas
+2022,P,Telegram - Aplicación,20,Alimentos y bebidas
+2022,P,Idioma español - Lengua,19,Alimentos y bebidas
+2022,P,Ananas comosus - Fruta,19,Alimentos y bebidas
+2022,P,Té - Bebida,19,Alimentos y bebidas
+2022,P,Imagen - Tema,18,Alimentos y bebidas
+2022,P,Idioma inglés - Lengua,18,Alimentos y bebidas
+2020,A,Receta culinaria - Género literario,100,Alimentos y bebidas
+2020,A,Costa Rica - País en Centroamérica,45,Alimentos y bebidas
+2020,A,Leche - Lácteo,28,Alimentos y bebidas
+2020,A,Alimento - Alimento,27,Alimentos y bebidas
+2020,A,Pan - Alimento,27,Alimentos y bebidas
+2020,A,Carne de pollo - Carne,26,Alimentos y bebidas
+2020,A,Bizcochuelo - Pastel,24,Alimentos y bebidas
+2020,A,Carne - Alimento,22,Alimentos y bebidas
+2020,A,Queso - Alimento,21,Alimentos y bebidas
+2020,A,Pastel - Industria alimentaria,20,Alimentos y bebidas
+2020,A,Salsa - Condimento,20,Alimentos y bebidas
+2020,A,Fruta - Comestible,19,Alimentos y bebidas
+2020,A,banana - Fruta,17,Alimentos y bebidas
+2020,A,Restaurante - Tipo de organización,17,Alimentos y bebidas
+2020,A,Pizza - Comida,16,Alimentos y bebidas
+2020,A,Chocolate - Alimento,16,Alimentos y bebidas
+2020,A,Arroz - Cereal,15,Alimentos y bebidas
+2020,A,Solanum tuberosum - Planta,13,Alimentos y bebidas
+2020,A,Cerveza - Bebida alcohólica,13,Alimentos y bebidas
+2020,A,Helado - Alimento,12,Alimentos y bebidas
+2020,A,Café - Bebida,12,Alimentos y bebidas
+2020,A,Crema de leche - Comida,12,Alimentos y bebidas
+2020,A,Ananas comosus - Fruta,12,Alimentos y bebidas
+2020,A,Pizza Hut - Cadena de restaurantes,12,Alimentos y bebidas
+2020,A,Postre - Tema,12,Alimentos y bebidas
+2021,A,Receta culinaria - Género literario,100,Alimentos y bebidas
+2021,A,Costa Rica - País en Centroamérica,67,Alimentos y bebidas
+2021,A,Alimento - Alimento,43,Alimentos y bebidas
+2021,A,Restaurante - Tipo de organización,35,Alimentos y bebidas
+2021,A,Leche - Lácteo,34,Alimentos y bebidas
+2021,A,Carne de pollo - Carne,32,Alimentos y bebidas
+2021,A,Carne - Alimento,31,Alimentos y bebidas
+2021,A,Pan - Alimento,26,Alimentos y bebidas
+2021,A,Bizcochuelo - Pastel,25,Alimentos y bebidas
+2021,A,Queso - Alimento,25,Alimentos y bebidas
+2021,A,Salsa - Condimento,24,Alimentos y bebidas
+2021,A,Pastel - Industria alimentaria,24,Alimentos y bebidas
+2021,A,Fruta - Comestible,23,Alimentos y bebidas
+2021,A,Telegram - Aplicación,22,Alimentos y bebidas
+2021,A,banana - Fruta,21,Alimentos y bebidas
+2021,A,Pizza - Comida,20,Alimentos y bebidas
+2021,A,Chocolate - Alimento,20,Alimentos y bebidas
+2021,A,Café - Bebida,20,Alimentos y bebidas
+2021,A,Arroz - Cereal,19,Alimentos y bebidas
+2021,A,Cerveza - Bebida alcohólica,18,Alimentos y bebidas
+2021,A,Solanum tuberosum - Planta,17,Alimentos y bebidas
+2021,A,Helado - Alimento,17,Alimentos y bebidas
+2021,A,Beneficio económico - Tema,16,Alimentos y bebidas
+2021,A,Té - Bebida,16,Alimentos y bebidas
+2021,A,Precio - Tema,15,Alimentos y bebidas
+2022,A,Receta culinaria - Género literario,100,Alimentos y bebidas
+2022,A,Costa Rica - País en Centroamérica,89,Alimentos y bebidas
+2022,A,Alimento - Alimento,52,Alimentos y bebidas
+2022,A,Restaurante - Tipo de organización,50,Alimentos y bebidas
+2022,A,Leche - Lácteo,42,Alimentos y bebidas
+2022,A,Carne de pollo - Carne,34,Alimentos y bebidas
+2022,A,Carne - Alimento,33,Alimentos y bebidas
+2022,A,Pan - Alimento,33,Alimentos y bebidas
+2022,A,Telegram - Aplicación,32,Alimentos y bebidas
+2022,A,Fruta - Comestible,32,Alimentos y bebidas
+2022,A,Pastel - Industria alimentaria,28,Alimentos y bebidas
+2022,A,Queso - Alimento,28,Alimentos y bebidas
+2022,A,Salsa - Condimento,27,Alimentos y bebidas
+2022,A,Pizza - Comida,26,Alimentos y bebidas
+2022,A,Bizcochuelo - Pastel,26,Alimentos y bebidas
+2022,A,Chocolate - Alimento,24,Alimentos y bebidas
+2022,A,Té - Bebida,24,Alimentos y bebidas
+2022,A,Café - Bebida,23,Alimentos y bebidas
+2022,A,banana - Fruta,23,Alimentos y bebidas
+2022,A,Beneficio económico - Tema,22,Alimentos y bebidas
+2022,A,Arroz - Cereal,22,Alimentos y bebidas
+2022,A,Helado - Alimento,21,Alimentos y bebidas
+2022,A,Cerveza - Bebida alcohólica,21,Alimentos y bebidas
+2022,A,Precio - Tema,20,Alimentos y bebidas
+2022,A,Solanum tuberosum - Planta,18,Alimentos y bebidas
+2020,H,Receta culinaria - Género literario,100,Alimentos y bebidas
+2020,H,Costa Rica - País en Centroamérica,48,Alimentos y bebidas
+2020,H,Alimento - Alimento,27,Alimentos y bebidas
+2020,H,Carne de pollo - Carne,25,Alimentos y bebidas
+2020,H,Pan - Alimento,23,Alimentos y bebidas
+2020,H,Leche - Lácteo,22,Alimentos y bebidas
+2020,H,Bizcochuelo - Pastel,22,Alimentos y bebidas
+2020,H,Pastel - Industria alimentaria,20,Alimentos y bebidas
+2020,H,Restaurante - Tipo de organización,20,Alimentos y bebidas
+2020,H,Carne - Alimento,19,Alimentos y bebidas
+2020,H,Queso - Alimento,19,Alimentos y bebidas
+2020,H,Salsa - Condimento,19,Alimentos y bebidas
+2020,H,Pizza - Comida,17,Alimentos y bebidas
+2020,H,Fruta - Comestible,16,Alimentos y bebidas
+2020,H,Heredia - Ciudad en Costa Rica,16,Alimentos y bebidas
+2020,H,banana - Fruta,15,Alimentos y bebidas
+2020,H,Pizza Hut - Cadena de restaurantes,15,Alimentos y bebidas
+2020,H,Arroz - Cereal,14,Alimentos y bebidas
+2020,H,Papa John's Pizza - Compañía,14,Alimentos y bebidas
+2020,H,Chocolate - Alimento,14,Alimentos y bebidas
+2020,H,Horno - Artículo de cocina,13,Alimentos y bebidas
+2020,H,Solanum tuberosum - Planta,12,Alimentos y bebidas
+2020,H,Cerveza - Bebida alcohólica,12,Alimentos y bebidas
+2020,H,Carne de cerdo - Carne,12,Alimentos y bebidas
+2020,H,Café - Bebida,11,Alimentos y bebidas
+2021,H,Receta culinaria - Género literario,100,Alimentos y bebidas
+2021,H,Costa Rica - País en Centroamérica,74,Alimentos y bebidas
+2021,H,Restaurante - Tipo de organización,41,Alimentos y bebidas
+2021,H,Alimento - Alimento,41,Alimentos y bebidas
+2021,H,Carne de pollo - Carne,31,Alimentos y bebidas
+2021,H,Leche - Lácteo,28,Alimentos y bebidas
+2021,H,Carne - Alimento,28,Alimentos y bebidas
+2021,H,Heredia - Ciudad en Costa Rica,26,Alimentos y bebidas
+2021,H,Pastel - Industria alimentaria,26,Alimentos y bebidas
+2021,H,Bizcochuelo - Pastel,25,Alimentos y bebidas
+2021,H,Pan - Alimento,24,Alimentos y bebidas
+2021,H,Salsa - Condimento,24,Alimentos y bebidas
+2021,H,Queso - Alimento,23,Alimentos y bebidas
+2021,H,Pizza - Comida,23,Alimentos y bebidas
+2021,H,Chocolate - Alimento,21,Alimentos y bebidas
+2021,H,Fruta - Comestible,20,Alimentos y bebidas
+2021,H,Menú - Restaurante,20,Alimentos y bebidas
+2021,H,Papa John's Pizza - Compañía,20,Alimentos y bebidas
+2021,H,banana - Fruta,19,Alimentos y bebidas
+2021,H,Café - Bebida,19,Alimentos y bebidas
+2021,H,Telegram - Aplicación,17,Alimentos y bebidas
+2021,H,Cerveza - Bebida alcohólica,17,Alimentos y bebidas
+2021,H,Arroz - Cereal,16,Alimentos y bebidas
+2021,H,Pizza Hut - Cadena de restaurantes,16,Alimentos y bebidas
+2021,H,Solanum tuberosum - Planta,16,Alimentos y bebidas
+2022,H,Receta culinaria - Género literario,100,Alimentos y bebidas
+2022,H,Costa Rica - País en Centroamérica,89,Alimentos y bebidas
+2022,H,Restaurante - Tipo de organización,59,Alimentos y bebidas
+2022,H,Alimento - Alimento,55,Alimentos y bebidas
+2022,H,Leche - Lácteo,36,Alimentos y bebidas
+2022,H,Carne de pollo - Carne,35,Alimentos y bebidas
+2022,H,Carne - Alimento,32,Alimentos y bebidas
+2022,H,Heredia - Ciudad en Costa Rica,30,Alimentos y bebidas
+2022,H,Telegram - Aplicación,30,Alimentos y bebidas
+2022,H,Queso - Alimento,29,Alimentos y bebidas
+2022,H,Fruta - Comestible,29,Alimentos y bebidas
+2022,H,Pizza - Comida,29,Alimentos y bebidas
+2022,H,Pan - Alimento,27,Alimentos y bebidas
+2022,H,Salsa - Condimento,27,Alimentos y bebidas
+2022,H,Bizcochuelo - Pastel,26,Alimentos y bebidas
+2022,H,Pastel - Industria alimentaria,26,Alimentos y bebidas
+2022,H,Menú - Restaurante,25,Alimentos y bebidas
+2022,H,banana - Fruta,23,Alimentos y bebidas
+2022,H,Café - Bebida,22,Alimentos y bebidas
+2022,H,Arroz - Cereal,22,Alimentos y bebidas
+2022,H,Cerveza - Bebida alcohólica,21,Alimentos y bebidas
+2022,H,Solanum tuberosum - Planta,19,Alimentos y bebidas
+2022,H,Té - Bebida,19,Alimentos y bebidas
+2022,H,Pizza Hut - Cadena de restaurantes,18,Alimentos y bebidas
+2022,H,Beneficio económico - Tema,18,Alimentos y bebidas
