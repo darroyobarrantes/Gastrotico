@@ -1,0 +1,13 @@
+import csv
+import pandas as pd
+
+
+listaComidas=[]
+
+dic={
+'Name':['Almuerzo campesino','Arroz con mariscos','Arroz con pescado seco','Arroz de maíz','Arroz guacho','Camarones rayados con patacón','Carne asada','Carne ahumada','Carne desmechada','Casado de cerdo','Filete de pargo','Frito decerdo','Frito de cerdo','Gallina achiotada','Gallina casera','Gallina criolla','Gallina enjarrada','Gallos de carne','Lomo relleno','Mariscada','mariscada boruca','Mondongo en salsa','Pargo frito','Pescado ahumado','Pescado frito','Patacones','Pinto','Pollo achiotado','Pollo achiotado','Pollo relleno','Pozol','Pozol costarricense','Pulpo quepoa','Salpicón de atún','Salpicón de pescado','Sopa de albóndigas','Sopa de gallina criolla','Sopa de mariscos','Sopa de mondongo','Sopa de pescado con coco','Tamales de cerdo','Tamal de maíz','Tamal de pollo','Tamal de masa','Vigorón','Picadillo de bambú','Picadillo de banano','Picadillo de castañas','tortillas de zorrillo','Picadillo de chicasquil','Picadillo de fiesta','Picadillo de palmito','Picadillo de palmito','Picadillo de papa','Picadillo de papaya','Picadillo de plátano','Picadillo de plátano','Picadillo de plátano verde','Picadillo de verdolaga','Picadillo de zorrillo','Picadillo de zorrillo','Picadillo del novio','Picadillo mixto de papaya','Ceviche de banano','Ceviche de camarónCeviche de chayote','Ceviche de coco','Ceviche de coliflor','Ceviche de lentejas','Ceviche de pechuga de pollo','Ceviche de pescado','Ceviche de piangua','Ceviche de piña','Ceviche de plátano tierno','Ceviche de pulpo','Ceviche de manga','Ceviche mixto','Ceviche tropical','Arroz con leche','Arroz con leche con coco','Arroz con leche con miel de papaya','Arroz con piña','Atol de maíz','Bizcocho','Cajeta de marañón','Cajetas de chayote','Cajetas de coco','Empanada de queso','Esfera de oro Quepo','Flan de coco','Mazamorra de maíz pujagua','Miel de icaco','Miel de mango','Pan casero','Pan de banano','Pan de banano con semilla de marañón','Pan de banano de Quepos','Pan de piña y coco de Quepos','Pan de yuca','Papín','Postre de frutas','Postre de frutas con gelatina','Postre de piña','Tamal asado','Tamal asado a la leña','Tamal asado de maíz','Tamal de elote','Tamal de maíz horneado','Torta de arroz dulce','Chicheme','Chocolate','Fresco de arazá','Fresco de carambola con arroz','Fresco de guapinol','Fresco de mango','Fresco de mango y arazá','Fresco de piña','Horchata','Horchata de fideos','Jugo de arazá','Pinolillo','Ponche','Ponche casero']
+}
+
+data=pd.DataFrame(dic)
+data.to_csv('ListaC.csv', index=False)
+df = pd.read_csv('ListaC.csv',names=["nombre"], sep=",")

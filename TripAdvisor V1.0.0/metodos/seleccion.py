@@ -8,7 +8,7 @@ Created on Thu Aug 11 23:28:42 2022
 def seleccionar_zona(opcion):
     zona=''
     if opcion==1:
-        zona=''
+        zona='https://www.tripadvisor.com.mx/Restaurants-g309293-San_Jose_San_Jose_Metro_Province_of_San_Jose.html'
     if opcion==2:
         zona=''
     if opcion==3:
